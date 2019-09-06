@@ -78,7 +78,7 @@ let operatorArray = numberIn.split('').filter(function(op){
       console.log(factorial(numberOne));
       break;
     default:
-      console.log("You collosal fucking idiot");
+      console.log("Please enter two numbers and a valid operator +,-,/,*,!");
       break;
   };
 });
