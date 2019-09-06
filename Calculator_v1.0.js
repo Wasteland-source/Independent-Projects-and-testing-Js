@@ -70,7 +70,7 @@ numberInput.question('What is your calculation', function(numberIn) {
       console.log(factorial(numberOne));
       break;
     default:
-      console.log("You collosal fucking idiot");
+      console.log("Whitespace is currently required for this program to work");
       break;
   };
 });
