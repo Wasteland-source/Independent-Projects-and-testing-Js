@@ -45,4 +45,4 @@ numberInput.on('line', function(numberIn) {
     process.exit()
   }
 });
-//An if/elseif/else statementthat checks if the player has guesses remaining, If the number is too high or too low and if none of those are true outputs a victory message
+//An if/elseif/else statement that checks if the player has guesses remaining, If the number is too high or too low and if none of those are true outputs a victory message
